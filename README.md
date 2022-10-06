@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-zenhom&label=Profile%20views&color=0e75b6&style=flat" alt="m-zenhom" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mad_zenhom" target="blank"><img src="https://img.shields.io/twitter/follow/mad_zenhom?logo=twitter&style=for-the-badge" alt="mad_zenhom" /></a> </p>
-
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **xmahmoud.zenhom@gmail.com**
