@@ -1,6 +1,6 @@
 <h1 align="center">HI THERE I'M<br>
 MAHMOUD M ZENHOM</h1>
-<h3 align="center">A Front-End Web Developer passionate about creating interactive applications and experiences on the web</h3>
+<h4 align="center">A Front-End Web Developer passionate about creating interactive applications and experiences on the web.</h4>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
