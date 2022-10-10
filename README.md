@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Zenhom</h1>
+<h1 align="center">Hello, I'm Mahmoud M Zenhom</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <h3 align="center">Languages and Tools:</h3>
