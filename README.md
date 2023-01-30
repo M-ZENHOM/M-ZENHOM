@@ -2,12 +2,12 @@
 MAHMOUD M ZENHOM</h1>
 <h4 align="center">A Front-End Web Developer passionate about creating interactive applications and experiences on the web.</h4>
 
- 📝 I regularly write articles on [https://www.mahmoud-zenhom.cf/blog](https://www.mahmoud-zenhom.cf/blog)
 
 - 💬 Ask me about **react,redux**
 
 - 📫 How to reach me **xzenhom@gmail.com**
-
+- 
+- 📝 I regularly write articles on [https://www.mahmoud-zenhom.cf/blog](https://www.mahmoud-zenhom.cf/blog)
 
 
 
