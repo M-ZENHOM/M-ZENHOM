@@ -2,6 +2,7 @@
 MAHMOUD M ZENHOM</h1>
 <h4 align="center">A Front-End Web Developer passionate about creating interactive applications and experiences on the web.</h4>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-zenhom&label=Profile%20views&color=0e75b6&style=flat" alt="m-zenhom" /> </p>
 
 - 💬 Ask me about **react,redux**
 
