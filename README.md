@@ -9,4 +9,4 @@ A passionate Front End Developer having experience in building Web with JavaScri
 
 -  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow-♥-Zenhom)](https://twitter.com/MAD_ZENHOM)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-zenhom&label=Profile%20views&color=0e75b6&style=flat" alt="m-zenhom" /> </p>
+
