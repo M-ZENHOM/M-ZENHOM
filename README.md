@@ -9,7 +9,7 @@
 
 - 🔗 I have a personal website at [https://www.mahmoud-zenhom.tk/](https://www.mahmoud-zenhom.tk/) where all my social networks are located! You can reach me anywhere over there!
   
-<div align="left">
+- <div align="left">
   <a href="https://www.linkedin.com/in/mahmoud-zenhom/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
