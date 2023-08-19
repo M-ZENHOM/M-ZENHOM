@@ -8,13 +8,13 @@
 <h2 align="left">📫 How to reach me</h2>
 
 - 🔗 I have a personal website at [https://www.mahmoud-zenhom.tk/](https://www.mahmoud-zenhom.tk/) where all my social networks are located! You can reach me anywhere over there!
-
--  <div align="left">
+  
+<div align="left">
   <a href="https://www.linkedin.com/in/mahmoud-zenhom/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/MAD_ZENHOM" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
   </a>
 </div>
 
