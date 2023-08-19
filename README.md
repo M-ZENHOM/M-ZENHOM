@@ -24,6 +24,6 @@
 
 ###
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nextjs,gatsby,tailwind,git,bash,materialui,sass&perline=5" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nextjs,gatsby,tailwind,git,materialui,sass&perline=6" alt="Tech Stack" />
 
 ###
