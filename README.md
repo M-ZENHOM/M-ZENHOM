@@ -27,4 +27,7 @@
 <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nextjs,gatsby,tailwind,git,materialui,sass,postman,redux&perline=6" alt="Tech Stack" />
 
 ###
-[![ZENHOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-zenhom)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-zenhom&hide_progress=true)
+
+###
