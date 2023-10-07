@@ -7,7 +7,7 @@
 
 <h2 align="left">📫 How to reach me</h2>
 
-- 🔗 I have a personal website at [https://www.mahmoud-zenhom.tk/](https://www.mahmoud-zenhom.tk/) where all my social networks are located! You can reach me anywhere over there!
+- 🔗 I have a personal website at [https://zenhom.vercel.app/](https://zenhom.vercel.app/) where all my social networks are located! You can reach me anywhere over there!
 
 - <div align="left">
   <a href="https://www.linkedin.com/in/mahmoud-zenhom/" target="_blank">
