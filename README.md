@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Mahmoud a self-taught front-end developer who loves building attractive websites. I also like video/photo editing and playing video games.</p>
+<p align="left">My name is Mahmoud a self-taught front-end developer who loves building attractive websites. I also like video/photo editing and playing video games.</p>
 
 
 <h2 align="left">📫 How to reach me</h2>
