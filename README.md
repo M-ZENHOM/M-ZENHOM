@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mahmoud, a self-taught Front End Developer, passionate about crafting modern websites. Proficient in React.js, Next.js, and other cutting-edge tools for beautiful front-end experiences</p>
+<p align="left">Hi, my name is Mahmoud a self-taught front-end developer who loves building attractive websites. I also like video/photo editing and playing video games.</p>
 
 
 <h2 align="left">📫 How to reach me</h2>
