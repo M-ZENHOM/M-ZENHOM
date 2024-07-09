@@ -17,19 +17,3 @@
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">   
   </a>
 </div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-
-<div>
-<img align="left" src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,express,mongodb,prisma,gatsby,tailwind,git,materialui,sass,postman,redux,styledcomponents&perline=6" alt="Tech Stack" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-zenhom&layout=compact" alt="Tech Stack" />
-</div>
-
-
-###
-
