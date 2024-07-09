@@ -13,7 +13,4 @@
   <a href="https://www.linkedin.com/in/mahmoud-zenhom/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=white">
   </a>
-  <a href="https://twitter.com/MAD_ZENHOM" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">   
-  </a>
 </div>
