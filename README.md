@@ -2,7 +2,7 @@
 
 ###
 
-**My name is Mahmoud a self-taught front-end developer who loves building attractive websites.**
+**My name is Mahmoud a software engineer with a passion for building user-friendly interfaces. I have experience in building applications using modern technologies like Typescript, React, Next.js, and Tailwind CSS.**
 
 > I have a personal website at [ZENHOM WEBSITE](https://zenhom.vercel.app) where you can find information about me, my projects, and all my social networks to reach me easily!!
 
